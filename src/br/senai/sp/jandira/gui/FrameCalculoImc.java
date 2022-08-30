@@ -23,6 +23,7 @@ public class FrameCalculoImc {
 	public Color corDeFundoDeTela;
 	public Font FontDosLabels;
 	public Color corDoBotao;
+	public String teste;
 	//public Color corDasLetras;
 	
 	
